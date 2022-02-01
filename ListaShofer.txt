@@ -1,0 +1,11 @@
+100,Hamilton,0,Mercedes,10,5,2,413,21
+101,Verstapen,0,Red Bull,6,5,9,278,19
+102,Ricciardo,0,McLaren,0,0,0,54,7
+103,Vettel,0,Aston Martin,0,1,4,240,16
+104,Magnussen,0,Haas,0,0,0,20,4
+105,Leclerc,0,Ferrari,1,5,4,264,18
+106,Gasly,0,AlphaTaur,0,0,0,95,14
+107,Bottas,0,Alfa Romeo,2,8,6,326,19
+108,Giovinazzi,0,Dragon,0,0,0,14,4
+109,Albon,0,Williams,0,0,0,92,13
+shofer-1643615918244,Esja,0,Malollari,0,0,0,0,0
