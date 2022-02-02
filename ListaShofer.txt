@@ -1,0 +1,5 @@
+shofer-1643550318013,Luis,1,AUDI,7,3,2,337,18
+1231,ESIA1,0,Ferrari1,1,6,3,268,18
+1234,KristalinaUpdated,0,RedBullUpdated,5,0,6,303,19
+shofer-1643550439750,Kristalina,0,FerrariA,3,3,4,277,18
+1231,ESIA1,0,Ferrari1,5,5,3,312,18
